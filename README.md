@@ -17,7 +17,7 @@ you are not forced to use any styles.
 
 Install the npm package.
 ```
-  npm i angular-carousel
+  npm i angular-custom-carousel
 ```
 Import module:
 ```ts
