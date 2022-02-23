@@ -4,10 +4,9 @@ import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { CarouselDemoComponent } from './carouselDemo/carouselDemo.component';
-import { NgCarouselModule } from 'angular-custom-carousel';
 
 @NgModule({
-  imports:      [ BrowserModule, FormsModule, NgCarouselModule ],
+  imports:      [ BrowserModule, FormsModule,  ],
   declarations: [ AppComponent, CarouselDemoComponent ],
   bootstrap:    [ AppComponent ]
 })
