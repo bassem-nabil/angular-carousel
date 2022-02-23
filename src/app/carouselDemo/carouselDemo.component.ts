@@ -3,8 +3,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-carouselDemo',
-  templateUrl: './carouselDemo.component.html',
-  styleUrls: ['./carouselDemo.component.css']
+  templateUrl: './carouselDemo.component.html'
 })
 export class CarouselDemoComponent implements OnInit {
   
